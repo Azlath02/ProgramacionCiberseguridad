@@ -1,0 +1,12 @@
+Referencias bibliográficas:
+1. https://atareao.es/tutorial/scripts-en-bash/condicionales-en-bash/  **Solucion del if**
+2. https://es.stackoverflow.com/questions/176071/por-qu%C3%A9-tengo-el-error-unary-operator-expected-en-bash 
+**Sintaxis**
+3. https://www.enmimaquinafunciona.com/pregunta/5/como-determinar-si-un-bash-variable-esta-vacia 
+**Manejo de variables**
+4. https://noviello.it/es/como-hacer-una-solicitud-post-con-curl-en-linux/ **Uso de Curl**
+5. https://curl.se/docs/ *Documentacion del curl**
+6. https://nextjournal.com/schmudde/hibp **Sintaxis de conexion con la API Have I Been Pwned?**
+
+NOTA: Es importante tener el archivo "correos.txt" para que el script pueda leer su contenido y evaluar si ha sido
+vulnerado el correo o no, y si desea agregar alguno más, debe agregarlo a dicho .txt
